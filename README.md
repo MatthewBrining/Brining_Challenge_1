@@ -6,4 +6,4 @@ Mock website updated with various minor corrections and optimizations.
 
 
 Deployed application link:
-https://shatteredchungus.github.io/Brining_Challenge_1/
+https://matthewbrining.github.io/Brining_Challenge_1/
